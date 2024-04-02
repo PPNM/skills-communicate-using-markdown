@@ -5,5 +5,14 @@
 ###### This is an `<h6>` header, which is the smallest
 
 
-https://github.com/PPNM/skills-communicate-using-markdown.wiki.git
+![credit yaktocat](https://github.com/PPNM/skills-communicate-using-markdown/assets/125627160/85a6ba17-e040-4d76-81c8-df8cd3d091e5)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
 
